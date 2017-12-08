@@ -90,7 +90,7 @@ td.GetFinanceInfo('SZ','000001')
 %% 获取F10资料
 % GetCompanyInfoCategory使用方法
 Category = td.GetCompanyInfoCategory('SZ','000001');
-td.GetCompanyInfoContent('SZ','000001',Category{2,2},Category{2,3},Category{2,4});
+td.GetCompanyInfoContent('SZ','000001',Category{2,2},Category{2,3},Category{2,4})
 
 %% 获取五档报价
 % GetSecurityQuote使用方法

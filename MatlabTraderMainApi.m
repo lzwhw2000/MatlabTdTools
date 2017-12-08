@@ -11,8 +11,6 @@ td.YybID = '0';
 td.Version = '8.24';
 td.Ip = '180.153.18.180'; % ÷––≈÷§»Ø
 td.Port = '7708';
-td.Hostip = '124.207.133.232';
-td.Hostprot = 37280;
 td.SHshareholder = 'A683065888';
 td.SZshareholder = '0217377888';
 
